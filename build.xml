@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
-<projet name="Hello World Project" default="info">
-<targe name="info">
-<echo> Hello World - Welcome to Simplilearn</echo>
-</target>
-</project>
+
+	<project name="Hello World Project" default="info">
+		<target name="info">
+		<echo> Hello World - Welcome to Simplilearn</echo>
+		</target>
+	</project>
 
